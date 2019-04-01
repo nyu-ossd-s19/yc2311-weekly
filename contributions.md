@@ -25,4 +25,3 @@ Replace the first row with your contribution.
 |  7   | https://github.com/nyu-ossd-s19/sklearn-logistics/commit/3519f151404b8f9270d80989689c585a3e09fc2b    | Group Project Logistics Repo    |   I added team member names to our logistics repo's README.    |
 |  9   | https://github.com/scikit-learn/scikit-learn/issues/13533    | Group Project: Scikit-Learn    |   This is my first real contribution to my group project. I raised an issue on the project's Issues page about a "todo" task I found in the project's documentation. Later, I found several more such tasks. I'm in talks with the admins on github and on the project's IRC to see how they would like for us to fix all these issues.    |
 |     |     |     |      |
-|     |     |     |      |
